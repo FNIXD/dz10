@@ -31,6 +31,7 @@
 3. Конец.
 
 ### Блок-схема
+<img width="1239" height="769" alt="изображение" src="https://github.com/user-attachments/assets/48e25a60-1555-4539-8142-f77e245d5aca" />
 
 ### Результат
 ```
